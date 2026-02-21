@@ -19,11 +19,9 @@ The **CPU Scheduling Visualizer** is a web-based application designed to simplif
 It simulates multiple CPU scheduling algorithms, calculates important performance metrics, and visually displays process execution using dynamic charts and Gantt diagrams.
 
 ### 🎓 This helps students:
-- 📘 Understand scheduling behavior  
-- 📊 Compare algorithm efficiency  
-- 🧠 Learn OS concepts visually  
-
----
+ 📘 Understand scheduling behavior  
+ 📊 Compare algorithm efficiency  
+ 🧠 Learn OS concepts visually  
 
 ## 🎥 Demo Features
 - ✨ Add custom processes (Arrival Time, Burst Time, Priority)  
@@ -33,48 +31,41 @@ It simulates multiple CPU scheduling algorithms, calculates important performanc
 - ✨ Dynamic and interactive UI  
 - ✨ Easy-to-use educational interface  
 
----
-
 ## ⚙️ Scheduling Algorithms Implemented
-- 🔵 **First Come First Serve (FCFS)**
-- 🟢 **Shortest Job First (SJF) – Non Preemptive**
-- 🟡 **Shortest Remaining Time First (SRTF)**
-- 🔴 **Priority Scheduling (Preemptive / Non-Preemptive)**
-- 🟣 **Round Robin (RR)**
-
----
+ 🔵 **First Come First Serve (FCFS)**
+ 🟢 **Shortest Job First (SJF) – Non Preemptive**
+ 🟡 **Shortest Remaining Time First (SRTF)**
+ 🔴 **Priority Scheduling (Preemptive / Non-Preemptive)**
+ 🟣 **Round Robin (RR)**
 
 ## 📊 Performance Metrics Calculated
-- ⏱️ Turnaround Time (TAT)  
-- ⏳ Waiting Time (WT)  
-- ⚡ Response Time (RT)  
-- 📈 Throughput  
-- 💻 CPU Utilization  
-- 📊 Average Metrics Comparison  
-
----
+ ⏱️ Turnaround Time (TAT)  
+ ⏳ Waiting Time (WT)  
+ ⚡ Response Time (RT)  
+ 📈 Throughput  
+ 💻 CPU Utilization  
+ 📊 Average Metrics Comparison  
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Backend
-- 🐍 Python 3.x  
-- 🌶 Flask  
+ 🐍 Python 3.x  
+ 🌶 Flask  
 
 ### 🎨 Frontend
-- 🌐 HTML5  
-- 🎨 CSS3  
-- 💎 Bootstrap 5  
-- 🧩 Jinja2 Templates  
+ 🌐 HTML5  
+ 🎨 CSS3  
+ 💎 Bootstrap 5  
+ 🧩 Jinja2 Templates  
 
 ### 📊 Visualization
-- 📈 Chart.js  
-- 📉 Plotly  
+ 📈 Chart.js  
+ 📉 Plotly  
 
 ### 📦 Other Tools
-- 🧮 NumPy  
-- 🧾 Pandas  
+ 🧮 NumPy  
+ 🧾 Pandas  
 
----
 
 ## 📂 Project Structure
 ```bash
